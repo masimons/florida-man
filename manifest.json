@@ -2,7 +2,7 @@
   "name": "Florida Man",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "add later",
+  "description": "Replaces 'Trump' references with 'Florida Man'",
   "browser_action": {
     "default_title": "Florida Man"
   },
