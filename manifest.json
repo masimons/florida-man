@@ -4,7 +4,8 @@
   "manifest_version": 2,
   "description": "Replaces 'Trump' references with 'Florida Man'",
   "browser_action": {
-    "default_title": "Florida Man"
+    "default_title": "Florida Man",
+    "default_icon": "icon48.jpg"
   },
   "icons": {
     "16": "icon16.jpg",
