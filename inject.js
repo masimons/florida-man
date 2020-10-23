@@ -10,7 +10,7 @@ function makeReplacements() {
 
 	console.log("Florida Man Addon replacement run: ", counter);
 
-	const text = document.querySelectorAll('h1, h2, h3, h4, h5, p, li, td, caption, span, article, a')
+	const text = document.querySelectorAll('h1, h2, h3, h4, h5, p, li, td, caption, span, article, a, strong')
 	for (let i=0; i<text.length; i++) {
 		if (text[i].innerHTML.includes('President Trump')) {
 			text[i].innerHTML = text[i].innerHTML.replace('President Trump', 'Florida Man')
