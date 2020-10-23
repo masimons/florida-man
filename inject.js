@@ -57,5 +57,5 @@ function makeReplacements() {
 	// 	};
 	// });
 
-	setInterval(makeReplacements, 2000);
+	setInterval(makeReplacements, 1000);
 })();
